@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![House of Streams](/images/hos.png)
+![House of Streams](images/hos.png)
 
 I'm a Staff Architect, experienced in event streaming and stream processing systems.
 

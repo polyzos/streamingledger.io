@@ -1,8 +1,8 @@
 ---
-title: 'The Importance of Unified Batch and Streaming in Modern Data Processing.
+title: 'CDC and Updates.
 '
-date: 2024-09-12
-permalink: /posts/unified-batch-and-streaming
+date: 2024-09-14
+permalink: /posts/cdc-and-updates
 tags:
   - unified batch and streaming
   - data architecture

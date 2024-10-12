@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Hello there 👋, I'm Giannis and Welcome to the StreamingLedger!"
+title: "Hello there👋<br>Welcome to the StreamingLedger!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-![House of Streams](/images/hos.png)
+![House of Streams](../images/hos.png)
 
 I'm a Staff Architect, experienced in event streaming and stream processing systems.
 
